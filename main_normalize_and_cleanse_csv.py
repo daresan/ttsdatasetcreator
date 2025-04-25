@@ -15,6 +15,8 @@ c_map_de = {
 	'mme': 'Madame',
 	'etc.': 'et cetera',
 	'usw.': 'und so weiter',
+	'https://www.': 'wehwehweh',
+	'http://www.': 'wehwehweh',
 	
 	
 	'“': '"',
